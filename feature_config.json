@@ -1,0 +1,16 @@
+{
+    "feature_cols": [
+        "Purchase_Year",
+        "Purchase_Month",
+        "Purchase_DayOfWeek",
+        "Purchase_Hour",
+        "Purchase_Weekend",
+        "customer_state",
+        "Seller_State_Count",
+        "Seller_Cities_Count",
+        "Item_Count"
+    ],
+    "threshold": 0.5,
+    "model_name": "XGBoost",
+    "status": "Provisional demo model"
+}
